@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: slf4j-api-1.7.7.jar commons-compress-1.8.1.jar snappy-java
+ -1.1.1.3.jar jackson-core-asl-1.9.13.jar xz-1.5.jar jackson-mapper-as
+ l-1.9.13.jar avro-1.8.1.jar paranamer-2.7.jar
+Main-Class: avrosearch.Main
+
